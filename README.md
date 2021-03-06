@@ -1,7 +1,7 @@
 # decryption-encryption
 A simple python script for encrypting and decyrpting files
 
-#Set-Up
+# Set-Up
 
 Clone this repository and run
 `python -m pip install -r requirements.txt`
